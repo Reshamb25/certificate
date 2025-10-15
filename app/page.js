@@ -1,9 +1,9 @@
-import Certificate from './achivement';
+import SapModComponent from './achivement';
 
 export default function Home() {
   return (
     <main>
-      <Certificate/>
+      <SapModComponent/>
     </main>
   );
 }
