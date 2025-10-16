@@ -1,9 +1,9 @@
-import SapModComponent from './achivement';
+import ProgramHighlights from './achivement';
 
 export default function Home() {
   return (
     <main>
-      <SapModComponent/>
+      <ProgramHighlights/>
     </main>
   );
 }
